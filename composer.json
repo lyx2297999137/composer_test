@@ -15,7 +15,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "sugao2013\\composer_test\\": ""
+            "sugao2013\\composer_test\\": "src"
         }
     }
 }
